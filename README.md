@@ -22,11 +22,6 @@ Foram utilizadas as seguintes ferramentas:
 
 - HTML5
 - CSS3 
----
-
-## Como baixar o projecto
-
----
 
 ## 🏷Author
 
